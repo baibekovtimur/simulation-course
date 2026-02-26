@@ -1,0 +1,10 @@
+C:\Users\timat\OneDrive\Documents\6th Semester\Имитационное моделирование\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\timat\OneDrive\Documents\6th Semester\Имитационное моделирование\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\timat\OneDrive\Documents\6th Semester\Имитационное моделирование\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\timat\OneDrive\Documents\6th Semester\Имитационное моделирование\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\timat\OneDrive\Documents\6th Semester\Имитационное моделирование\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\timat\OneDrive\Documents\6th Semester\Имитационное моделирование\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\timat\OneDrive\Documents\6th Semester\Имитационное моделирование\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\timat\OneDrive\Documents\6th Semester\Имитационное моделирование\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\timat\OneDrive\Documents\6th Semester\Имитационное моделирование\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\timat\OneDrive\Documents\6th Semester\Имитационное моделирование\lab2\lab2\obj\Debug\lab2.pdb
