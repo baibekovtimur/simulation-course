@@ -1,0 +1,14 @@
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\bin\Debug\net8.0-windows\ForestFire.exe
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\bin\Debug\net8.0-windows\ForestFire.deps.json
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\bin\Debug\net8.0-windows\ForestFire.runtimeconfig.json
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\bin\Debug\net8.0-windows\ForestFire.dll
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\bin\Debug\net8.0-windows\ForestFire.pdb
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\obj\Debug\net8.0-windows\ForestFire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\obj\Debug\net8.0-windows\ForestFire.AssemblyInfoInputs.cache
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\obj\Debug\net8.0-windows\ForestFire.AssemblyInfo.cs
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\obj\Debug\net8.0-windows\ForestFire.csproj.CoreCompileInputs.cache
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\obj\Debug\net8.0-windows\ForestFire.dll
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\obj\Debug\net8.0-windows\refint\ForestFire.dll
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\obj\Debug\net8.0-windows\ForestFire.pdb
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\obj\Debug\net8.0-windows\ForestFire.genruntimeconfig.cache
+C:\Users\Roku\OneDrive\Documents\6th Semester\Имитационное моделирование\lab3\ForestFire\obj\Debug\net8.0-windows\ref\ForestFire.dll
